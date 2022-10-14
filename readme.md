@@ -1,4 +1,4 @@
-![Ddns Logo](https://daydayup666.eth.ddns.so/ipfs/QmXmdSQRPmhMfhpHzh1XZ5iUar6DyQr8DbJu748Kuuortu)
+<img src="https://daydayup666.eth.ddns.so/ipfs/QmXmdSQRPmhMfhpHzh1XZ5iUar6DyQr8DbJu748Kuuortu" width="200" height="200" />
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 orderedList:0 -->
 
 - [接口](https://github.com/120821/readme#api接口)
@@ -47,17 +47,6 @@ GET 请求，请求的内容如下：
     // 父级域名的labelHash
     "parent": "0x93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae",
     "subdomainCount": 0,  // 表示查询域名的子域名数量
-    "resolvedAddress": {  // 表示解析地址的信息
-      "id": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",  // 表示解析域名的address
-      "domains": [
-        {
-          "labelName": "v-buterin", // labelName
-          // labelhash
-          "labelhash": "0xfd39c1851ec280f5e358dc134a1142683559770b88bd1051caf8db13583c7552",
-          "name": "v-buterin.eth"   // 表示完整的域名
-        }
-      ]
-    },
     "ttl": null,  // ttl
     "cost": "0",  // 成本
     "expiryDate": "2032-05-04 05:50:24 +0800",  // 表示查询域名的到期时间
@@ -104,17 +93,6 @@ GET 请求，请求的内容如下：
     // 父级域名的labelHash
     "parent": "0x93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae",
     "subdomainCount": 3,  // 表示查询域名的子域名数量
-    "resolvedAddress": {  // 表示解析地址的信息
-      "id": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",  // 表示解析域名的address
-      "domains": [
-        {
-          "labelName": "v-buterin", // labelName
-          // labelhash
-          "labelhash": "0xfd39c1851ec280f5e358dc134a1142683559770b88bd1051caf8db13583c7552",
-          "name": "v-buterin.eth"   // 表示完整的域名
-        }
-      ]
-    },
     "ttl": null,  // ttl
     "cost": "0",  // 成本
     "expiryDate": "2032-05-04 05:50:24 +0800",  // 表示查询域名的到期时间
