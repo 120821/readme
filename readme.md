@@ -51,8 +51,7 @@ GET 请求，请求的内容如下：
     "cost": "0",  // 成本
     "expiryDate": "2032-05-04 05:50:24 +0800",  // 表示查询域名的到期时间
     "registrationDate": "2020-02-07 02:23:40 +0800",  // 表示查询域名的注册时间
-
-    // 下面的这些内容，都来自于[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)（点击“[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)”查看图片）
+    <pre>// 下面的records的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png">截图2</a></pre>
     "records": {
       // contenthash
       "contenthash": "0xe3010170122022fb6413aa794d5eb7a3906655f50f5ac41cbdd7933bc277f7192c9e2177c792",
@@ -60,7 +59,7 @@ GET 请求，请求的内容如下：
       "eth": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
       "dot": "",    // 表示Polkadot地址
       "btc": "",    // 表示btc地址
-      // 下面的text的这些内容，都来自于[截图1](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)（点击“[截图1](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)”查看图片）
+      <pre>// 下面的text的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE1.png">截图1</a></pre>
       "text": [
         "url",      // 表示Twitter的URL
         "avatar"    // 表示头像的URL
@@ -97,7 +96,7 @@ GET 请求，请求的内容如下：
     "cost": "0",  // 成本
     "expiryDate": "2032-05-04 05:50:24 +0800",  // 表示查询域名的到期时间
     "registrationDate": "2020-02-07 02:23:40 +0800",  // 表示查询域名的注册时间
-    // 下面的这些内容，都来自于[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)（点击“[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)”查看图片）
+    <pre>// 下面的records的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png">截图2</a></pre>
     "records": {
       // contenthash
       "contenthash": "0xe3010170122022fb6413aa794d5eb7a3906655f50f5ac41cbdd7933bc277f7192c9e2177c792",
@@ -105,7 +104,7 @@ GET 请求，请求的内容如下：
       "eth": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
       "dot": "",    // 表示Polkadot地址
       "btc": "",    // 表示btc地址
-      // 下面的text的这些内容，都来自于[截图1](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)（点击“[截图1](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)”查看图片）
+      <pre>// 下面的text的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE1.png">截图1</a></pre>
       "text": [
         "url",      // 表示Twitter的URL
         "avatar"    // 表示头像的URL
@@ -149,7 +148,7 @@ GET 请求，请求的内容如下：
     // 表示查询域名的子域名数量
     "subdomainCount": 12,
 
-    // 下面的这些内容，都来自于[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)(点击“[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)“查看图片）
+    <pre>// 下面的records的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png">截图2</a></pre>
     "records": {
       "DOT": "168EsqUaRF6teT9enPx9X6dbHR7JbWN5hDeNAKtHGUPh4RCy", // 表示Polkadot地址
       "ETH": "0x0b23E3588c906C3F723C58Ef4d6baEe7840A977c",  // 表示Eth地址
@@ -192,7 +191,7 @@ GET 请求，请求的内容如下：
     "registrationDate": "2022-06-26 23:47:06 +0800",
     // 表示查询域名的子域名数量
     "subdomainCount": 12,
-    // 下面的这些内容，都来自于[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)(点击“[截图2](https://www.notion.so/DDNS-c4455da295134b9aac3f04d362491d09)”查看图片）
+    <pre>// 下面的records的内容，都来自于<a href="https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png">截图2</a></pre>
     "records": {
       "DOT": "168EsqUaRF6teT9enPx9X6dbHR7JbWN5hDeNAKtHGUPh4RCy", // 表示Polkadot地址
       "ETH": "0x0b23E3588c906C3F723C58Ef4d6baEe7840A977c",  // 表示Eth地址
