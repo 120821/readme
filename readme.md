@@ -1,4 +1,4 @@
-![Ddns Logo](https://github.com/120821/readme/blob/main/red.png)
+![Ddns Logo](https://daydayup666.eth.ddns.so/ipfs/QmXmdSQRPmhMfhpHzh1XZ5iUar6DyQr8DbJu748Kuuortu)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 orderedList:0 -->
 
 - [接口](https://github.com/120821/readme#api接口)
