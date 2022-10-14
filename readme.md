@@ -2,8 +2,8 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 orderedList:0 -->
 
 - [接口](https://github.com/120821/readme#api接口)
-	- [接口1：某个.eth .dot域名的详细信息](https://github.com/120821/readme#接口1-某个eth域名--dot域名的详细信息)
-	- [接口2：反向解析（根据 ETH地址 ，获得 ens / pns 域名）](https://github.com/120821/readme#接口2-反向解析-根据ETH地址获得-ens--pns-域名)
+	- [接口1：某个.eth .dot域名的详细信息](https://github.com/120821/readme#%E6%8E%A5%E5%8F%A31-%E6%9F%90%E4%B8%AAeth--dot-%E5%9F%9F%E5%90%8D%E7%9A%84%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF)
+	- [接口2：反向解析（根据 ETH地址 ，获得 ens / pns 域名）](https://github.com/120821/readme#%E6%8E%A5%E5%8F%A32%E5%8F%8D%E5%90%91%E8%A7%A3%E6%9E%90%E6%A0%B9%E6%8D%AE-eth%E5%9C%B0%E5%9D%80-%E8%8E%B7%E5%BE%97-ens--pns-%E5%9F%9F%E5%90%8D)
 
 <!-- /TOC -->
 
