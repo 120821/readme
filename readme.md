@@ -273,8 +273,6 @@ GET 请求，请求的内容如下：
   ]
 }
 ```
-[截图1](https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE1.png)
-[截图2](https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png)
 ![截图1](https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE1.png)
 截图1
 ![截图2](https://github.com/120821/readme/blob/main/%E6%88%AA%E5%9B%BE2.png)
